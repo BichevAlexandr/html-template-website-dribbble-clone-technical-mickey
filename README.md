@@ -1,0 +1,1 @@
+![Иллюстрация к проекту](https://github.com/BichevAlexandr/html-template-website-dribbble-clone-technical-mickey/raw/main/demo.png)
